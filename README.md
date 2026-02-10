@@ -1,6 +1,9 @@
 # React CRUD User Management App
 
-A modern contact management application built with React, featuring add, edit, delete, and view operations with real-time data synchronization.
+A modern contact management application built with React, featuring add, edit, delete, and view operations with real-time data synchronization.  
+
+## "Backend is simulated with JSON‑server locally. Replace API_URL in api.js with the provided API when available."
+
 
 ## Features
 
