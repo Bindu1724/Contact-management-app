@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "ce8e",
+      "firstName": "Bindu",
+      "lastName": "Madishetti",
+      "phone": "9502651497",
+      "email": "madishettibindu1706@gmail.com"
+    },
+    {
+      "id": "7a4d",
+      "firstName": "Dev",
+      "lastName": "Byrugonda",
+      "phone": "8794586795",
+      "email": "dev@gmail.com"
+    },
+    {
+      "id": "8d11",
+      "firstName": "Karthik",
+      "lastName": "Sanga",
+      "phone": "9849758963",
+      "email": "karthik@gmail.com"
+    }
+  ]
+}
